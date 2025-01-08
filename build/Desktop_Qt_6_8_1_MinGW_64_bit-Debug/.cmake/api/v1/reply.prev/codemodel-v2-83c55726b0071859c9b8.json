@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cf751bb818e199a8fca3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MadDev",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MadDev::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MadDev-Debug-6737afe0bdec9b5f5798.json",
+					"name" : "MadDev",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MadDev_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MadDev_autogen-Debug-59b34bfdb3b09cb7d1c0.json",
+					"name" : "MadDev_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MadDev_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MadDev_autogen_timestamp_deps-Debug-4058cd3bb122752fb4f2.json",
+					"name" : "MadDev_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ivan.kirilin/Documents/MadDev/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ivan.kirilin/Documents/MadDev"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
