@@ -30,3 +30,6 @@ git clone git@github.com:Bonartze/MadDev.git
 mkdir build && cd build && cmake ../ && make -j`nproc`
 ```
 
+# Пример вывода:
+
+![img.png](img.png)
