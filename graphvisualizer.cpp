@@ -1,4 +1,4 @@
-#include "GraphVisualizer.h"
+#include "graphvisualizer.h"
 
 GraphVisualizer::GraphVisualizer(Graph& graph, QWidget* parent)
     : QMainWindow(parent), graph(graph),  points_ref(graph.get_points()),

@@ -1,5 +1,5 @@
 #include "Graph.h"
-#include "GraphVisualizer.h"
+#include "graphvisualizer.h"
 #include <QApplication>
 #include <QInputDialog>
 #include <QMessageBox>
